@@ -2,6 +2,8 @@
 // <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
 // Draggable plugin required:
 // <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/Draggable.min.js"></script>
+// <script src="js/main.js"></script>
+
 
 document.addEventListener("DOMContentLoaded", () => {
   if (typeof window.gsap === "undefined") {
